@@ -1,0 +1,33 @@
+{
+    "name": "afc-redtv-cli",
+    "description": "Unofficial command-line interface for AFC RedTV",
+    "version": "0.0.0",
+    "license": "MIT",
+    "author": "Jordan Patton",
+    "homepage": "https://github.com/jordanpatton/afc-redtv-cli",
+    "keywords": [
+        "aberdeen",
+        "afc",
+        "cli",
+        "club",
+        "command-line",
+        "football",
+        "interface",
+        "redtv"
+    ],
+    "dependencies": {
+    },
+    "devDependencies": {
+    },
+    "main": "index.js",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/jordanpatton/afc-redtv-cli.git"
+    },
+    "scripts": {
+        "build": "npx tsc",
+        "start": "node ./dist/index.js",
+        "test": "echo \"TODO\" && exit 1"
+    },
+    "type": "module"
+}
