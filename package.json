@@ -15,9 +15,8 @@
         "interface",
         "redtv"
     ],
-    "dependencies": {
-    },
     "devDependencies": {
+        "typescript": "^5.8.3"
     },
     "main": "index.js",
     "repository": {
